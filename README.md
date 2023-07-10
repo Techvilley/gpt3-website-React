@@ -6,3 +6,5 @@ This design employes best practices in the directory structure, and also the BEM
 
 The website was designed from a figma file, and everything was coded from scratch.
 
+THis is a portfolio website.
+
