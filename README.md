@@ -1,4 +1,4 @@
-# A GPT3 Website build with react 
+# A GPT3 Website built with react 
 
 ## Adoption of best practices.
 
